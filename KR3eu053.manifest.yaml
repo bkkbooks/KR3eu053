@@ -1,0 +1,446 @@
+canonical_identifier: bkk:krp/KR3eu053/v1
+canonical_location: https://kanripo.org/bkk/KR3eu053/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 腳氣概論
+  identifiers:
+    krp: KR3eu053
+  tags:
+    kr-categories: KR3eu
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eu053.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eu053_000.yaml, hash: 'sha256:e587c25111893bb30941ff24f1078d6aab88ed8e104db0c2bc659bd3490772c1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eu053_000.markers.yaml, hash: 'sha256:986700310cf8cfe8cbc2123b4c092871254b23fab733aa508f81b74d88929713'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 1020
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d2d6
+    span:
+    - front
+    - 516
+    - 1020
+  label: 凡例
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 11202
+  label: 腳氣概論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3d2
+    span:
+    - body
+    - 4
+    - 8
+  label: 腳氣統論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3d3
+    span:
+    - body
+    - 8
+    - 165
+  label: 論腳氣異名
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3d4
+    span:
+    - body
+    - 165
+    - 217
+  label: 論腳氣即古尰疾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3d5
+    span:
+    - body
+    - 217
+    - 334
+  label: 論腳氣即古重膇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3d6
+    span:
+    - body
+    - 334
+    - 465
+  label: 論腳氣即古呰窳
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3d7
+    span:
+    - body
+    - 465
+    - 834
+  label: 論腳氣即素靈痿厥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3d8
+    span:
+    - body
+    - 834
+    - 945
+  label: 論腳氣天下遍有
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3d9
+    span:
+    - body
+    - 945
+    - 1155
+  label: 論漢土腳氣古今異治
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3d10
+    span:
+    - body
+    - 1155
+    - 1402
+  label: 論本邦腳氣古今異證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3d11
+    span:
+    - body
+    - 1402
+    - 1487
+  label: 論腳氣由風毒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3d12
+    span:
+    - body
+    - 1487
+    - 1604
+  label: 論腳氣因飲氣下流
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3d13
+    span:
+    - body
+    - 1604
+    - 1747
+  label: 論腳氣由腎虛
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3d14
+    span:
+    - body
+    - 1747
+    - 1947
+  label: 論腳氣有內外
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3d15
+    span:
+    - body
+    - 1947
+    - 2365
+  label: 論腳氣有乾溼
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3d16
+    span:
+    - body
+    - 2365
+    - 2652
+  label: 論腳氣脈異他病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3d17
+    span:
+    - body
+    - 2652
+    - 3228
+  label: 論腳氣似傷寒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3d18
+    span:
+    - body
+    - 3228
+    - 3454
+  label: 論腳氣衝心候
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3d19
+    span:
+    - body
+    - 3454
+    - 3554
+  label: 論腳氣壅疾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3d20
+    span:
+    - body
+    - 3554
+    - 3881
+  label: 論腳氣色診
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3d21
+    span:
+    - body
+    - 3881
+    - 3973
+  label: 論腳氣外發諸法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3d22
+    span:
+    - body
+    - 3973
+    - 4061
+  label: 論腳氣內疏急治諸法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3d23
+    span:
+    - body
+    - 4061
+    - 4103
+  label: 論腳氣內疏緩治諸法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3d24
+    span:
+    - body
+    - 4103
+    - 4155
+  label: 論腳氣滲利滌瀉諸法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3d25
+    span:
+    - body
+    - 4155
+    - 4232
+  label: 論腳氣滋養諸法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3d26
+    span:
+    - body
+    - 4232
+    - 4628
+  label: 論腳氣灸法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3d27
+    span:
+    - body
+    - 4628
+    - 11202
+  label: 論腳氣攝養法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3.d27d10
+    span:
+    - body
+    - 4946
+    - 5766
+  label: 腳氣痹攣
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3.d27d11
+    span:
+    - body
+    - 5766
+    - 6823
+  label: 腳氣腳膝腫痛
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3.d27d12
+    span:
+    - body
+    - 6823
+    - 7678
+  label: 腳氣腫滿
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3.d27d13
+    span:
+    - body
+    - 7678
+    - 8180
+  label: 腳氣大小便不通
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3.d27d14
+    span:
+    - body
+    - 8180
+    - 8418
+  label: 腳氣小腹不仁
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3.d27d15
+    span:
+    - body
+    - 8418
+    - 8645
+  label: 腳氣上氣
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3.d27d16
+    span:
+    - body
+    - 8645
+    - 9088
+  label: 腳氣嘔逆
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3.d27d17
+    span:
+    - body
+    - 9088
+    - 10573
+  label: 腳氣衝心
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d3.d27d18
+    span:
+    - body
+    - 10573
+    - 11202
+  label: 腳氣痿弱
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d4.h1s1
+    span:
+    - body
+    - 11202
+    - 11968
+  label: 附錄
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d4d2
+    span:
+    - body
+    - 11204
+    - 11968
+  label: 論婦人腳氣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d5.h1s1
+    span:
+    - body
+    - 11968
+    - 12209
+  label: 跋
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu053_jc_000-d6.h1s1
+    span:
+    - body
+    - 12209
+    - 12766
+  label: 博濟堂記
+  type: section
+  level: 1
+hash: sha256:83c06cfe1df1b48e7bccd49543c035e59659782e263e4c73ddbcf8a0d6317c51
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
