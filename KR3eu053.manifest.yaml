@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eu053/v1
 canonical_location: https://kanripo.org/bkk/KR3eu053/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 腳氣概論
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eu053_000.yaml, hash: 'sha256:0a4cf64e8bbd213ce0e8e21525f3aa2ee939fc04ae0458d25a5c606575b47333'}
+  - {seq: 0, filename: KR3eu053_000.yaml, hash: 'sha256:4e6c7a868e747ddfc84b48bcd0be3354c00b1abda6367eada4a0d8b970c57246'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eu053_000.markers.yaml, hash: 'sha256:c6acf4d8663b5dac03607edad077c5389518ae5d085de5784cee58b0d7bb7c45'}
+  - {seq: 0, role: markers, filename: assets/KR3eu053_000.markers.yaml, hash: 'sha256:a4ab77cf6886061b7b016d609c6b276969faafc723a4fa31d0ac6b419b8ef801'}
 table_of_contents:
 - ref:
     seq: 0
@@ -440,4 +440,7 @@ table_of_contents:
   label: 博濟堂記
   type: section
   level: 1
-hash: sha256:f2992af95654743077dc81fab36ade9bc90636d352a0993be04345c8f57af06a
+hash: sha256:6961cf23ad86613c1ee36d68abee88c71db293a53ad11535a2bd4601b1237c60
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
