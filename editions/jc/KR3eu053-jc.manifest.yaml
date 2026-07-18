@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eu053_000-jc.yaml, hash: 'sha256:0a4cf64e8bbd213ce0e8e21525f3aa2ee939fc04ae0458d25a5c606575b47333'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eu053_000-jc.markers.yaml, hash: 'sha256:acc834ff696280ced0cb6eacde41fb08fb549def14f8c579a171ca54a291ee03'}
+  - {seq: 0, role: markers, filename: assets/KR3eu053_000-jc.markers.yaml, hash: 'sha256:382319371862f8aeb2f1588e138c78254de6921359b38ee1b37a95002f025b14'}
 table_of_contents:
 - ref:
     seq: 0
@@ -440,4 +440,4 @@ table_of_contents:
   label: 博濟堂記
   type: section
   level: 1
-hash: sha256:ea62d0a2bb4d88087304a8e04bebc0922fdc25f2fbb65eaa36ea7ad1c1e5da63
+hash: sha256:dcbd3b65a64b43321e0ac1b4c61be2ea6de8e647524d46ecf2f6541221801f5c
